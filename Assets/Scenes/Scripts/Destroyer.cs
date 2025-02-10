@@ -20,6 +20,10 @@ public class Destroyer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        /*
+        1) L'aumento della velocità degli ostacoli è esponenziale sulla base dell'incrementare del punteggio.
+        2) L'altezza degli ostacoli è differente.
+        3) Il distanziamento degli ostacoli è misurato 
+        */
     }
 }
